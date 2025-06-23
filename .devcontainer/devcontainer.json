@@ -24,9 +24,9 @@
 						"previewLimit": 50,
 						"server": "localhost",
 						"port": 5432,
-						"database": "app",
-						"username": "app_user",
-						"password": "app_password"
+						"database": "restaurant_reviews",
+						"username": "bahleel",
+						"password": "bahleelgenk"
 					}
 				],
 				"python.pythonPath": "/usr/local/bin/python",
